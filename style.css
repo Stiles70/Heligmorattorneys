@@ -1,0 +1,190 @@
+#nav{
+    justify-content: space-between;
+    margin: 20px 90px 0px 70px;
+}
+
+.helig{
+    color: #2a82e9;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+#nav-flex{
+    justify-content: space-between;
+    gap: 50px;
+}
+
+#nav-flex span a{
+    color: #ffe791;
+}
+
+#nav-flex a{
+    text-decoration: none;
+    color: black;
+}
+
+.img{
+    width: 1400px;
+    height: 400px;
+    margin: 0px 0px 0px 60px;
+}
+
+.img-container{
+    position: relative;
+}
+
+#trans{
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    padding: 100px 270px;
+}
+
+#trans h6{
+    font-size: 23px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+#btn-1{
+    margin-top: 0px;
+    color: white;
+    background-color: #2a82e9;
+}
+
+.legal{
+    padding-top: 80px;
+}
+
+#card{
+    margin: 30px 50px 0px 70px;
+}
+
+#maritime h2{
+    padding: 20px 50px;
+    font-weight: 600;
+}
+
+#maritime p{
+    font-size: 18px;
+    padding: 0px 50px;
+    line-height: 25px;
+    color: #8c8c8c;
+}
+
+#about{
+    margin: 30px 50px 0px 70px;
+}
+
+#session{
+    background-color: #e5f6ff;
+    transform: translateX(-20px);
+}
+
+#session h2{
+    padding: 20px 50px;
+    font-weight: 600;
+}
+
+#session p{
+    font-size: 23px;
+    padding: 0px 50px;
+    line-height: 32px;
+}
+
+#btn-2{
+    margin-left: 230px;
+    margin-top: 30px;
+    width: 100px;
+    color: #289bde;
+}
+
+#rating{
+    margin: 30px 50px 0px 70px;
+    gap: 20px;
+}
+
+#rating p{
+    color: #8c8c8c;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+#ellipse{
+    gap: 15px;
+}
+
+#ellipse span{
+    color: #8c8c8c;
+    font-size: 20px;
+}
+
+#feedback p{
+    color: black;
+}
+
+#feedback input{
+    max-width: 100%;
+    min-height: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+#feedback button{
+    background-color: #289bde;
+    margin-top: 20px;
+    margin-left: 390px;
+}
+
+#area{
+    background-color: #e9f5fc;
+    max-width: 600px;
+    min-height: 50px;
+}
+
+#areas{
+    background-color: white;
+    max-width: 600px;
+    min-height: 50px;
+    border: 0.5px solid black;
+}
+
+#firm{
+    width: 550px;
+    margin: auto;
+}
+
+.unrelated{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.unrelated span{
+    color: #289bde;
+}
+
+.unrelated input{
+    max-width: 400px;
+    min-height: 50px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.unrelated button{
+    background-color: #289bde;
+    margin-top: 20px;
+    margin-left: 270px;
+    max-width: 130px;
+    border-radius: 10px;
+}
+
+#img-contain{
+    gap: 100px;
+    margin-left: 50px;
+}
+
+.intro {
+    font-size: 17px;
+    /* word-spacing: 10px; */
+}
